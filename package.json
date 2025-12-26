@@ -14,11 +14,11 @@
     "lodash": "^4.17.15",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "typescript": "^3.7.5"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "1.13.5",
+    "@graphql-codegen/cli": "1.21.8",
     "@graphql-codegen/fragment-matcher": "1.13.5",
     "@graphql-codegen/introspection": "1.13.5",
     "@graphql-codegen/typescript": "1.13.5",
@@ -31,7 +31,7 @@
     "@types/node": "^12.12.39",
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
-    "eslint": "^6.6.0",
+    "eslint": "^9.39.1",
     "eslint-config-google": "^0.14.0",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^4.0.2"
